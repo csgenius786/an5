@@ -1,0 +1,29 @@
+
+.red_title{
+    color:red;
+}
+ .green_title{
+     color:green;
+ }
+ .bigger{
+     width: 100px;
+     height: 100px;
+ }
+ .width200{
+     width: 200px;
+ }
+ .height180{
+     height: 180px;
+ }
+ .border{
+     border: 1px dotted greenyellow;
+ }
+ p{
+     width: 200px;
+     background: lightgray;
+     margin: 100px auto;
+     text-align: center;
+     padding: 20;
+     font-size: 1.5em;
+
+ }
